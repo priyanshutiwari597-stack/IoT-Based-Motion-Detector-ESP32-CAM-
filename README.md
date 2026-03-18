@@ -15,3 +15,7 @@ This project is an IoT-based motion detection system using ESP32-CAM that captur
 
 ## Working
 When motion is detected by the PIR sensor, the ESP32-CAM captures an image. The system can be used for basic monitoring and security applications.
+## Project Setup
+![Prototype Setup]
+
+*Breadboard-based prototype used for testing motion detection and camera functionality.*
